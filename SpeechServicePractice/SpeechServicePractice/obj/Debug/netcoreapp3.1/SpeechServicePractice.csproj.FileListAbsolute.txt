@@ -1,0 +1,125 @@
+C:\Users\azrae\source\repos\SpeechServicePractice\SpeechServicePractice\obj\Debug\netcoreapp3.1\SpeechServicePractice.csprojAssemblyReference.cache
+C:\Users\azrae\source\repos\SpeechServicePractice\SpeechServicePractice\obj\Debug\netcoreapp3.1\SpeechServicePractice.AssemblyInfoInputs.cache
+C:\Users\azrae\source\repos\SpeechServicePractice\SpeechServicePractice\obj\Debug\netcoreapp3.1\SpeechServicePractice.AssemblyInfo.cs
+C:\Users\azrae\source\repos\SpeechServicePractice\SpeechServicePractice\obj\Debug\netcoreapp3.1\SpeechServicePractice.csproj.CoreCompileInputs.cache
+C:\Users\azrae\source\repos\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\SpeechServicePractice.exe
+C:\Users\azrae\source\repos\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\SpeechServicePractice.deps.json
+C:\Users\azrae\source\repos\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\SpeechServicePractice.runtimeconfig.json
+C:\Users\azrae\source\repos\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\SpeechServicePractice.runtimeconfig.dev.json
+C:\Users\azrae\source\repos\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\SpeechServicePractice.dll
+C:\Users\azrae\source\repos\SpeechServicePractice\SpeechServicePractice\obj\Debug\netcoreapp3.1\SpeechServicePractice.genruntimeconfig.cache
+C:\Users\azrae\source\repos\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\SpeechServicePractice.pdb
+C:\Users\azrae\source\repos\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\azrae\source\repos\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\linux-arm\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\azrae\source\repos\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.core.so
+C:\Users\azrae\source\repos\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.extension.codec.so
+C:\Users\azrae\source\repos\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+C:\Users\azrae\source\repos\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\azrae\source\repos\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.core.so
+C:\Users\azrae\source\repos\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.extension.codec.so
+C:\Users\azrae\source\repos\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+C:\Users\azrae\source\repos\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\linux-x64\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\azrae\source\repos\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.core.so
+C:\Users\azrae\source\repos\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.extension.codec.so
+C:\Users\azrae\source\repos\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+C:\Users\azrae\source\repos\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\osx-x64\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\azrae\source\repos\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libMicrosoft.CognitiveServices.Speech.core.dylib
+C:\Users\azrae\source\repos\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\azrae\source\repos\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.codec.dll
+C:\Users\azrae\source\repos\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\azrae\source\repos\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.silk_codec.dll
+C:\Users\azrae\source\repos\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\azrae\source\repos\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.codec.dll
+C:\Users\azrae\source\repos\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\azrae\source\repos\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.silk_codec.dll
+C:\Users\azrae\source\repos\SpeechServicePractice\SpeechServicePractice\obj\Debug\netcoreapp3.1\SpeechServicePractice.csproj.CopyComplete
+C:\Users\azrae\source\repos\SpeechServicePractice\SpeechServicePractice\obj\Debug\netcoreapp3.1\SpeechServicePractice.dll
+C:\Users\azrae\source\repos\SpeechServicePractice\SpeechServicePractice\obj\Debug\netcoreapp3.1\SpeechServicePractice.pdb
+D:\GitHub\C#\Speech practice\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\SpeechServicePractice.exe
+D:\GitHub\C#\Speech practice\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\SpeechServicePractice.deps.json
+D:\GitHub\C#\Speech practice\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\SpeechServicePractice.runtimeconfig.json
+D:\GitHub\C#\Speech practice\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\SpeechServicePractice.runtimeconfig.dev.json
+D:\GitHub\C#\Speech practice\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\SpeechServicePractice.dll
+D:\GitHub\C#\Speech practice\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\SpeechServicePractice.pdb
+D:\GitHub\C#\Speech practice\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\Microsoft.CognitiveServices.Speech.csharp.dll
+D:\GitHub\C#\Speech practice\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\linux-arm\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+D:\GitHub\C#\Speech practice\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.core.so
+D:\GitHub\C#\Speech practice\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.extension.codec.so
+D:\GitHub\C#\Speech practice\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+D:\GitHub\C#\Speech practice\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+D:\GitHub\C#\Speech practice\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.core.so
+D:\GitHub\C#\Speech practice\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.extension.codec.so
+D:\GitHub\C#\Speech practice\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+D:\GitHub\C#\Speech practice\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\linux-x64\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+D:\GitHub\C#\Speech practice\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.core.so
+D:\GitHub\C#\Speech practice\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.extension.codec.so
+D:\GitHub\C#\Speech practice\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+D:\GitHub\C#\Speech practice\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\osx-x64\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+D:\GitHub\C#\Speech practice\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libMicrosoft.CognitiveServices.Speech.core.dylib
+D:\GitHub\C#\Speech practice\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.core.dll
+D:\GitHub\C#\Speech practice\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.codec.dll
+D:\GitHub\C#\Speech practice\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.kws.dll
+D:\GitHub\C#\Speech practice\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.silk_codec.dll
+D:\GitHub\C#\Speech practice\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.core.dll
+D:\GitHub\C#\Speech practice\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.codec.dll
+D:\GitHub\C#\Speech practice\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.kws.dll
+D:\GitHub\C#\Speech practice\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.silk_codec.dll
+D:\GitHub\C#\Speech practice\SpeechServicePractice\SpeechServicePractice\obj\Debug\netcoreapp3.1\SpeechServicePractice.csprojAssemblyReference.cache
+D:\GitHub\C#\Speech practice\SpeechServicePractice\SpeechServicePractice\obj\Debug\netcoreapp3.1\SpeechServicePractice.AssemblyInfoInputs.cache
+D:\GitHub\C#\Speech practice\SpeechServicePractice\SpeechServicePractice\obj\Debug\netcoreapp3.1\SpeechServicePractice.AssemblyInfo.cs
+D:\GitHub\C#\Speech practice\SpeechServicePractice\SpeechServicePractice\obj\Debug\netcoreapp3.1\SpeechServicePractice.csproj.CopyComplete
+D:\GitHub\C#\Speech practice\SpeechServicePractice\SpeechServicePractice\obj\Debug\netcoreapp3.1\SpeechServicePractice.dll
+D:\GitHub\C#\Speech practice\SpeechServicePractice\SpeechServicePractice\obj\Debug\netcoreapp3.1\SpeechServicePractice.pdb
+D:\GitHub\C#\Speech practice\SpeechServicePractice\SpeechServicePractice\obj\Debug\netcoreapp3.1\SpeechServicePractice.genruntimeconfig.cache
+D:\GitHub\C#\Speech practice\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\GitHub\C#\Speech practice\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\GitHub\C#\Speech practice\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\GitHub\C#\Speech practice\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\GitHub\C#\Speech practice\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GitHub\C#\Speech practice\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GitHub\C#\Speech practice\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\GitHub\C#\Speech practice\SpeechServicePractice\SpeechServicePractice\obj\Debug\netcoreapp3.1\SpeechServicePractice.csproj.CoreCompileInputs.cache
+D:\GitHub\C#\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\SpeechServicePractice.exe
+D:\GitHub\C#\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\SpeechServicePractice.deps.json
+D:\GitHub\C#\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\SpeechServicePractice.runtimeconfig.json
+D:\GitHub\C#\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\SpeechServicePractice.runtimeconfig.dev.json
+D:\GitHub\C#\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\SpeechServicePractice.dll
+D:\GitHub\C#\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\SpeechServicePractice.pdb
+D:\GitHub\C#\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\Microsoft.CognitiveServices.Speech.csharp.dll
+D:\GitHub\C#\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\GitHub\C#\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\GitHub\C#\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\GitHub\C#\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\linux-arm\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+D:\GitHub\C#\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.core.so
+D:\GitHub\C#\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.extension.codec.so
+D:\GitHub\C#\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+D:\GitHub\C#\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+D:\GitHub\C#\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.core.so
+D:\GitHub\C#\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.extension.codec.so
+D:\GitHub\C#\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+D:\GitHub\C#\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\linux-x64\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+D:\GitHub\C#\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.core.so
+D:\GitHub\C#\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.extension.codec.so
+D:\GitHub\C#\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+D:\GitHub\C#\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\osx-x64\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+D:\GitHub\C#\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libMicrosoft.CognitiveServices.Speech.core.dylib
+D:\GitHub\C#\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.core.dll
+D:\GitHub\C#\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.codec.dll
+D:\GitHub\C#\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.kws.dll
+D:\GitHub\C#\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.silk_codec.dll
+D:\GitHub\C#\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.core.dll
+D:\GitHub\C#\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.codec.dll
+D:\GitHub\C#\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.kws.dll
+D:\GitHub\C#\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.silk_codec.dll
+D:\GitHub\C#\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\GitHub\C#\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GitHub\C#\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GitHub\C#\SpeechServicePractice\SpeechServicePractice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\GitHub\C#\SpeechServicePractice\SpeechServicePractice\obj\Debug\netcoreapp3.1\SpeechServicePractice.csprojAssemblyReference.cache
+D:\GitHub\C#\SpeechServicePractice\SpeechServicePractice\obj\Debug\netcoreapp3.1\SpeechServicePractice.AssemblyInfoInputs.cache
+D:\GitHub\C#\SpeechServicePractice\SpeechServicePractice\obj\Debug\netcoreapp3.1\SpeechServicePractice.AssemblyInfo.cs
+D:\GitHub\C#\SpeechServicePractice\SpeechServicePractice\obj\Debug\netcoreapp3.1\SpeechServicePractice.csproj.CoreCompileInputs.cache
+D:\GitHub\C#\SpeechServicePractice\SpeechServicePractice\obj\Debug\netcoreapp3.1\SpeechServicePractice.csproj.CopyComplete
+D:\GitHub\C#\SpeechServicePractice\SpeechServicePractice\obj\Debug\netcoreapp3.1\SpeechServicePractice.dll
+D:\GitHub\C#\SpeechServicePractice\SpeechServicePractice\obj\Debug\netcoreapp3.1\SpeechServicePractice.pdb
+D:\GitHub\C#\SpeechServicePractice\SpeechServicePractice\obj\Debug\netcoreapp3.1\SpeechServicePractice.genruntimeconfig.cache
