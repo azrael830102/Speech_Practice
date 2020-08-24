@@ -84,6 +84,7 @@ namespace SpeechServicePractice
                 }
             }
             Console.WriteLine("Bye");
+            await SynthesizeAudioAsync(config, "Bye");
             //await SynthesizeAudioAsync(config, "So, they say");
         }
         private static void PrintTitle()
